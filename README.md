@@ -18,7 +18,6 @@ The project includes:
 - Python (Pandas)
 - Excel
 - Power BI
-- MySQL
 - Jupyter Notebook
 
 ---
